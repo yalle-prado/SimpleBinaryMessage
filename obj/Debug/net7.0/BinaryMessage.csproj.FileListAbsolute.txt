@@ -1,0 +1,15 @@
+/home/prado/Projects/BinaryMessage/obj/Debug/net7.0/BinaryMessage.csproj.AssemblyReference.cache
+/home/prado/Projects/BinaryMessage/obj/Debug/net7.0/BinaryMessage.GeneratedMSBuildEditorConfig.editorconfig
+/home/prado/Projects/BinaryMessage/obj/Debug/net7.0/BinaryMessage.AssemblyInfoInputs.cache
+/home/prado/Projects/BinaryMessage/obj/Debug/net7.0/BinaryMessage.AssemblyInfo.cs
+/home/prado/Projects/BinaryMessage/obj/Debug/net7.0/BinaryMessage.csproj.CoreCompileInputs.cache
+/home/prado/Projects/BinaryMessage/bin/Debug/net7.0/BinaryMessage
+/home/prado/Projects/BinaryMessage/bin/Debug/net7.0/BinaryMessage.deps.json
+/home/prado/Projects/BinaryMessage/bin/Debug/net7.0/BinaryMessage.runtimeconfig.json
+/home/prado/Projects/BinaryMessage/bin/Debug/net7.0/BinaryMessage.dll
+/home/prado/Projects/BinaryMessage/bin/Debug/net7.0/BinaryMessage.pdb
+/home/prado/Projects/BinaryMessage/obj/Debug/net7.0/BinaryMessage.dll
+/home/prado/Projects/BinaryMessage/obj/Debug/net7.0/refint/BinaryMessage.dll
+/home/prado/Projects/BinaryMessage/obj/Debug/net7.0/BinaryMessage.pdb
+/home/prado/Projects/BinaryMessage/obj/Debug/net7.0/BinaryMessage.genruntimeconfig.cache
+/home/prado/Projects/BinaryMessage/obj/Debug/net7.0/ref/BinaryMessage.dll
