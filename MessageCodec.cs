@@ -6,7 +6,7 @@ public class SimpleMessageCodec : IMessageCodec
 {
     private const int MAX_PAYLOAD = 256 * 1024;
     private const int MAX_HEADER = 1023;
-    private const int MAX_NUM_HEADERS = 4;
+    private const int MAX_NUM_HEADERS = 2;
 
     public byte[] Encode(Message message)
         {
